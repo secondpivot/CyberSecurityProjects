@@ -1,0 +1,2 @@
+staff:x:staff
+root:x:admin
